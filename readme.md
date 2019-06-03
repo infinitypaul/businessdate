@@ -1,4 +1,3 @@
-<p align="center"><img src="https://raw.githubusercontent.com/infinitypaul/carcrash/master/public/clogo.png" /></p>
 <p align="center">Business Date</p>
 <p align="center"><a href="#">Creator</a> | I Craft Ideas Into Realities</p>
 
